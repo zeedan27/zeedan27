@@ -46,7 +46,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">zeedan@khan</tspan> -————————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">United International University (UIU)</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">B.Sc. in Data Science (CGPA: 3.95/4.00)</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">B.Sc. in CSE (CGPA: 3.95/4.00)</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Undergraduate Assistant (Dept. of CSE)</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">VS Code, Claude Code, Antigravity</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Mohammadpur, Dhaka, Bangladesh</tspan>
